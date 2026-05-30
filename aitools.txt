@@ -1,5 +1,5 @@
-# AI Tools
-# 用途：AI 聊天、AI 编程、模型 API、AI 搜索、AI 图片/视频/语音工具
+# AI Tools / Local Proxy Tools
+# 用途：AI 聊天、AI 编程、模型 API、AI 搜索、AI 图片/视频/语音工具、本机日常需要代理的工具服务
 
 # OpenAI / ChatGPT
 DOMAIN-SUFFIX,openai.com
@@ -99,3 +99,10 @@ DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,grammarly.com
 DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,copy.ai
+
+# Password Manager / Local Tooling
+DOMAIN-SUFFIX,bitwarden.com
+DOMAIN-SUFFIX,bitwarden.net
+DOMAIN-SUFFIX,vault.bitwarden.com
+DOMAIN-SUFFIX,api.bitwarden.com
+DOMAIN-SUFFIX,identity.bitwarden.com
