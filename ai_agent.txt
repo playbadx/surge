@@ -1,16 +1,43 @@
 # AI Agent Rules
 # 用途：AI 网站、AI 应用、AI 编程、模型 API、AI 搜索、AI 图片/视频/语音服务
 
-# OpenAI / ChatGPT
+# OpenAI / ChatGPT / Codex
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaimerge.com
+DOMAIN-SUFFIX,c-openai.com
+DOMAIN-SUFFIX,mail.openai.com
+DOMAIN-SUFFIX,sales.openai.com
+DOMAIN-SUFFIX,tm.openai.com
+DOMAIN-SUFFIX,auth.openai.com
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,featureassets.org
+DOMAIN-SUFFIX,prodregistryv2.org
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,workos.com
+DOMAIN-SUFFIX,workoscdn.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,sendgrid.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,webpubsub.azure.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,humb.apple.com
+DOMAIN-SUFFIX,stripe.com
 
 # Anthropic / Claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,docs.claude.com
+DOMAIN-SUFFIX,support.claude.com
+DOMAIN-SUFFIX,privacy.claude.com
+DOMAIN-SUFFIX,trust.anthropic.com
 
 # Google AI / Gemini
 DOMAIN-SUFFIX,gemini.google.com
